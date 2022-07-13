@@ -1,8 +1,9 @@
 # Hi there 👋
 
-I'm a Full-stack Web Developer and I try to be as useful and meaningful as possible when building things for the web.
+I'm a Front-end Web Developer and I try to be as useful and meaningful as possible when building things for the web.
 
-I work at Lighthouse Labs which I very much ❤️ and I mentor people through http://codingcoach.io/ (mainly about front-end development).
+I'm currently transitioning from front-end to full-stack by learning back-end
+development and I mentor people through http://codingcoach.io/ (mainly about front-end development).
 
 - 🌱 I'm currently learning: RoR API Development, Blockchain.
 - 👯 I'm looking to collaborate on anything related to sports, e-sports, fitness and health, Wellness, IoT, Video streaming, rpgs/video games, education, blockchain and environment related projects 🌳.
