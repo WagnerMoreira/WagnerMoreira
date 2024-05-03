@@ -6,7 +6,4 @@ using OpenKore where I would write Lua scripts to give instructions to the bots,
 
 - 🌱 I'm currently learning back-end development to become a full-stack dev and front-end architecture to get my front-end skills to the next level.
 - I mentor people through http://codingcoach.io/ 
-- 👯 I'm looking to collaborate on anything related to Sports, E-sports, Fitness and Health, Wellness, IoT, Investing, Video streaming, rpgs/video games, education, and environment-related projects 🌳.
-- 💬 Ask me about Front-end Development or any of the above ^. 
 
-Note: the interesting stuff is in the private repos :)
